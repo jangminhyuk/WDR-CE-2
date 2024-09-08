@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# This file generates data for Figure 1 (b)
-# Computation Time plot
+# This file generates data for Computation Time plot
 # Gaussian(Normal) distributions
 # 3 method implemented (WDR-CE, DRLQC(1e-3), DRLQC(1e-4))
 

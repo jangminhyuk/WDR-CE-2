@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# This file generates data for Figure 3 (a), (b)
-# Gaussian(Normal) and U-Quadratic distributions
+# This file generates data for Gaussian(Normal) and U-Quadratic distributions
 # 4 method implemented (WDRC, WDRC+DRKF, WDRC+DRMMSE, WDR-CE (Ours))
 
 import numpy as np

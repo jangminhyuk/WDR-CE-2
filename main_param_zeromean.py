@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# This file generates data for Figure 2 (a), (b)
-# Zero-mean Gaussian(Normal) and U-Quadratic distributions
+# This file generates data for Zero-mean Gaussian(Normal) and U-Quadratic distributions
 # 4 method implemented (LQG, WDRC, DRLQC, WDR-CE)
 
 import numpy as np

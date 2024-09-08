@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# This file generates data for Figure 5 (a), (b)
-# Gaussian(Normal) and U-Quadratic distributions
+# This file generates data for Gaussian(Normal) and U-Quadratic distributions
 # 3 method implemented (LQG, WDRC, WDR-CE)
 # DRLQC not implemented : Frank-Wolfe algorithm shows unstable behavior in this system
 

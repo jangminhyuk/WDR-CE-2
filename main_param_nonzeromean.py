@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# This file generates data for Figure 1 (a)
-# Nonzeromean U-Quadratic distributions
+# This file generates data for Nonzeromean U-Quadratic distributions
 # 4 method implemented (LQG, WDRC, DRLQC, WDR-CE)
 
 import numpy as np
